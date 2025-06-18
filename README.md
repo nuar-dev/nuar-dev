@@ -1,40 +1,42 @@
-# 🧟‍♂️ nuar-dev has entered the simulation
+# 🐙 nuar-dev ∙ Architect of the Unseen Warehouses
 
-> Full-stack chaos engineer, fluent in logic, allergic to repetition, and currently obsessed with bending warehouse space and time.
-
-- 🔬 Currently simulating **logistics ecosystems** where racks breathe, pallets flow, and React + Rust hold the universe together.
-- 🧠 Started coding in **C++ at 12** because games wouldn't make themselves—now teaching my tools to think before I do.
-- ⚙️ Fluent in *many things*, loyal to none. Right now: Rust, TypeScript, React, and a growing obsession with Neovim.
-- 🛠️ IDEs used over the years: Code::Blocks → Eclipse → IntelliJ → VS Code → **Neovim** (coming soon, with dotfile vengeance).
-- 🚀 I code in **sprints**, usually triggered by caffeine or existential clarity. Expect commit storms, not drizzles.
-- 🤝 Looking to **collaborate on** developer tools, smart automation, or anything that makes warehouse ops less dumb.
-- 🧨 Fun fact: I build warehouse layouts that one day might just simulate your job better than your ERP.
+> "_Ph'nglui mglw’nafh Rust wgah’nagl Tauri fhtagn._"  
+> Beneath layers of abstraction, something stirs—written in C++, tempered by React, whispered to by Neovim.
 
 ---
 
-### 📊 GitHub Stats — When the chaos settles
-
-![nuar-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuar-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuar-dev&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuar-dev&theme=radical)
-
----
-
-### ⏱️ WakaTime — The time sink revealed
-
-> _“Where did the hours go?”_ — WakaTime knows.
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nuar-dev&theme=radical)
+- 🧠 Once, at age 12, I opened the forbidden tome: **C++**. I sought games. I found recursion.
+- 🛠 I dwell now in **VS Code**, but the pull of the arcane editor—**Neovim**—draws me deeper still.
+- 🔍 My rituals involve **React**, **Rust**, **Tauri**, and other tools that bend time and UI into unholy harmony.
+- 🏗 I simulate **warehouses**, but not as they are—**as they could be** in dreams not meant for the waking mind.
+- 🌌 I code not daily, but in **bursts of unnatural clarity**, when the stars align and caffeine courses through ritual sigils.
+- 🧬 Collaboration is coming. The lone summoner shall soon open the gates to the collective.
 
 ---
 
-### 🛸 Reach out
+## 📊 Stats — Echoes from the Terminal Abyss
 
-- 📬 nuar@nuar.de
-- 💣 Pronouns: he/him (or just “hey you, with the warehouse AI”)
-- 🧩 More coming soon: dev logs, open-source simulation tools, CLI madness, and maybe a visual debugger for reality.
+![nuar-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuar-dev&show_icons=true&theme=dark&hide_title=true&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuar-dev&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuar-dev&theme=dark)
 
 ---
 
-> _“I’m not here to move fast and break things. I’m here to simulate the thing that broke and explain why it moved.”_  
-> — nuar-dev
+## ⌛ WakaTime — Time Devoured by the Outer Processes
+
+> "_Even time bleeds, in the face of code._"
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nuar-dev&theme=dark)
+
+---
+
+## 📫 Contact the Summoner
+
+- ✉️ nuar@nuar.de  
+- 🙃 Pronouns: he/him (or “the One Who Refactors in the Void”)  
+- 🐾 Follow the glyphs. Codebase soon to open.
+
+---
+
+> _"In the simulation of the warehouse, I saw madness. In optimizing the aisle flow, I heard the silence scream."_  
+> — nuar-dev, whispering into the commit log

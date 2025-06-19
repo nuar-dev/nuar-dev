@@ -1,7 +1,7 @@
 # 🐙 nuar-dev ∙ Architect of the Unseen Warehouses
 
 > "_Ph'nglui mglw’nafh Rust wgah’nagl Tauri fhtagn._"  
-> Beneath layers of abstraction, something stirs—written in C++, tempered by React, whispered to by Neovim.
+> Beneath layers of abstraction, something stirs—written in Rust, tempered by React, whispered to by Neovim.
 
 ---
 

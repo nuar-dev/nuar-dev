@@ -24,7 +24,7 @@
 
 ## ⌛ WakaTime — Time Devoured by the Outer Processes
 
-> "_Even time bleeds, in the face of code._" Ph'nglui
+> "_Even time bleeds, in the face of code._"
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nuar&theme=dark)
 

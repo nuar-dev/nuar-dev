@@ -33,7 +33,7 @@
 ## 📫 Contact the Summoner
 
 - ✉️ nuar@nuar.de  
-- 🙃 Pronouns: he/him (or “the One Who Refactors in the Void”)  
+- 🙃 Pronouns: the One Who Refactors in the Void  
 - 🐾 Follow the glyphs. Codebase soon to open.
 
 ---

@@ -25,7 +25,7 @@
 ## ⌛ WakaTime — Time Devoured by the Outer Processes
 
 > "_Even time bleeds, in the face of code._"
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nuar)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats - Dark](https://github-readme-stats.vercel.app/api/wakatime?username=nuar)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

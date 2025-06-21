@@ -26,7 +26,7 @@
 
 > "_Even time bleeds, in the face of code._" Ph'nglui
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nuar-dev&theme=dark)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nuar&theme=dark)
 
 ---
 

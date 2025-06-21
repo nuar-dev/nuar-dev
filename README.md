@@ -26,7 +26,7 @@
 
 > "_Even time bleeds, in the face of code._"
 
-[![waka-nuar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waka-nuar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![nuar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nuar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

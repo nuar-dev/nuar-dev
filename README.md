@@ -32,26 +32,8 @@ By night, I reshape domains in **Rust**, **Tauri**, **React**, and **Neovim**.
 **Domains:**  
 🗃️ Warehouse Logistics ∙ 🧮 Simulation ∙ 🧠 Human-Machine Interaction ∙ 🧱 Internal Tooling ∙ 📈 Analytics
 
----
 
-## 🔍 Selected Focus Areas
-
-### 🏗 Simulation Engineering
-Design and development of **interactive, algorithm-driven warehouse simulators**, including:
-- Picker/worker logic (chaotic, fixed-slot, hybrid zones)
-- Bin-level reservations and overflow control
-- FIFO picking strategies with route optimization
-- Live DOM + KPI rendering using `Chart.js` and custom canvas overlays
-
-### ⚙️ Technical Product Ownership
-Hands-on product work, including:
-- Feature planning, backlog triage, and architecture tradeoffs
-- UX-Dev handoff, internal QA processes, and technical documentation
-- Stakeholder translation: from business goal → functional code
-
----
-
-## 📊 Stats — System Logs from the Depths
+## 📊 Stats
 
 ![nuar-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuar-dev&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuar-dev&layout=compact&theme=tokyonight)
@@ -59,7 +41,7 @@ Hands-on product work, including:
 
 ---
 
-## ⏳ WakaTime — Time Spent Building the Backbone
+## ⏳ WakaTime
 
 [![nuar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nuar&layout=compact&theme=radical)](https://wakatime.com/@nuar)
 
@@ -69,9 +51,4 @@ Hands-on product work, including:
 
 - 🌐 [nuar.de](https://nuar.de)
 - 📬 `nuar@nuar.de`
-- 🛠 Pronouns: `they/code`
 
----
-
-> _"In simulating the warehouse, I designed more than flow — I created insight."_  
-> — nuar-dev, from the changelog of a forgotten commit

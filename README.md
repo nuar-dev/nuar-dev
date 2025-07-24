@@ -39,5 +39,5 @@ Technical product strategist and full‑stack system architect specializing in w
 **Email:** nuar@nuar.de
 
 <p align="center">
-  <img src="./assets/chaos_engineer.jpg" alt="chaos-engineer" width="150" />
+  <img src="./assets/chaos_engineer.jpg" alt="chaos-engineer" width="500" />
 </p>

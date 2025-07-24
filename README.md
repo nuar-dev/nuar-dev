@@ -8,17 +8,27 @@
 
 ## Profile
 
-Technical product strategist and full‑stack system architect specializing in warehouse logistics simulation and internal tooling. I bridge operational challenges and software engineering to deliver measurable impact.
-
+Coffee in hand, I keep warehouse‑scale simulations humming and microservices neatly lined up—and every so often, my commit messages come with just enough friendly guidance to keep both codebases and colleagues smiling.
 ---
 
-## Core Competencies
+## Core Expertise
 
-- **DevOps & Infrastructure Automation**  
-- **Full‑Stack Application Development**  
-- **Simulation Engines & Warehouse Modeling**  
-- **Warehouse Optimization** 
-- **Business Process Mapping & Data Modeling**  
+**DevOps & Infrastructure Automation**
+Crafting CI/CD pipelines, provisioning cloud resources as code, and keeping deployments predictable.
+
+**Full‑Stack Application Development**
+Building user‑friendly front ends and rock‑solid back ends that talk to each other seamlessly.
+
+**Simulation Engines & Warehouse Modeling**
+Developing bespoke engines to replicate real‑world warehouse workflows at scale.
+
+**Warehouse Optimization**
+Applying data‑driven strategies to squeeze every bit of efficiency out of logistics operations.
+
+**Business Process Mapping & Data Modeling**
+Translating complex workflows into clear diagrams and data schemas that guide both tech and strategy.
+
+Pull requests and issue reports welcome—let’s turn complexity into clarity.
 
 ---
 
@@ -38,6 +48,7 @@ Technical product strategist and full‑stack system architect specializing in w
 **Website:** https://nuar.de  
 **Email:** nuar@nuar.de
 
+**In the face of code, even time bleeds—and that which slumbers in the depths of logic stirs with every commit…**
 <p align="center">
   <img src="./assets/chaos_engineer.jpg" alt="chaos-engineer" width="500" />
 </p>

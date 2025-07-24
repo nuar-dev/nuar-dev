@@ -1,54 +1,39 @@
-# 🧠 nuar-dev ∙ Simulating Reality, Architecting Flow
+# nuar‑dev
 
-> "_Beyond UI and logic, I model systems.  
-> Warehouses, workflows, and weak spots — all mapped in code._"
+**Modeling complex systems. Optimizing warehouse simulations and developer workflows.**
 
----
-
-## 👨‍💻 About Me
-
-I’m a **technical product thinker** and **fullstack system designer**, blending software engineering with operational insight.  
-By day, I optimize **warehouse simulations** and internal tooling.  
-By night, I reshape domains in **Rust**, **Tauri**, **React**, and **Neovim**.
-
-**My strengths:**
-
-- 🔧 Strong in **DevOps**, **Fullstack Development**, and **simulation systems**
-- 📦 Architect of complex **warehouse models**, from physical layout to picker logic
-- ⚙️ Practitioner of **chaos & fixed-slot logistics**, hybrid bin strategies, and system constraints
-- 🧩 Fluent in translating between **business processes**, **data models**, and **code**
-- 🚀 Passionate about building **tools that matter** — for people who measure impact in seconds and meters, not slides
+> Beyond interface and logic, I architect scalable solutions for real‑world operations.
 
 ---
 
-## 🧭 Tech Stack
+## Profile
 
-**Languages & Frameworks:**  
-`Rust` ∙ `JavaScript` ∙ `TypeScript` ∙ `React` ∙ `Tauri` ∙ `Node.js` ∙ `C++`
-
-**Infra & Tools:**  
-`Docker` ∙ `GitHub Actions` ∙ `Vite` ∙ `pnpm` ∙ `Chart.js` ∙ `Neovim` ∙ `VS Code`
-
-**Domains:**  
-🗃️ Warehouse Logistics ∙ 🧮 Simulation ∙ 🧠 Human-Machine Interaction ∙ 🧱 Internal Tooling ∙ 📈 Analytics
-
-
-## 📊 Stats
-
-![nuar-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuar-dev&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuar-dev&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuar-dev&theme=tokyonight)
+Technical product strategist and full‑stack system architect specializing in warehouse logistics simulation and internal tooling. I bridge operational challenges and software engineering to deliver measurable impact.
 
 ---
 
-## ⏳ WakaTime
+## Core Competencies
 
-[![nuar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nuar&layout=compact&theme=radical)](https://wakatime.com/@nuar)
+- **DevOps & Infrastructure Automation**  
+- **Full‑Stack Application Development**  
+- **Simulation Engines & Warehouse Modeling**  
+- **Warehouse Optimization** 
+- **Business Process Mapping & Data Modeling**  
 
 ---
 
-## 📫 Contact
+## Development Metrics
 
-- 🌐 [nuar.de](https://nuar.de)
-- 📬 `nuar@nuar.de`
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=nuar-dev&show_icons=true&theme=tokyonight&hide_title=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuar-dev&layout=compact&theme=tokyonight)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=nuar-dev&theme=tokyonight)  
 
+**WakaTime Overview**  
+[![WakaTime Summary](https://github-readme-stats.vercel.app/api/wakatime?username=nuar&layout=compact&theme=radical)](https://wakatime.com/@nuar)
+
+---
+
+## Contact
+
+**Website:** https://nuar.de  
+**Email:** nuar@nuar.de

@@ -33,6 +33,7 @@ Pull requests and issue reports welcome—let’s turn complexity into clarity.
   <img src="https://github-readme-stats.vercel.app/api?username=nuar-dev&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Contributions" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuar-dev&layout=compact&theme=tokyonight" alt="Top Languages" />  
 </p>
+
 [![WakaTime Summary](https://github-readme-stats.vercel.app/api/wakatime?username=nuar&layout=compact&theme=radical)](https://wakatime.com/@nuar)
 
 ---

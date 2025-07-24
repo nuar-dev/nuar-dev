@@ -4,13 +4,13 @@
 
 ---
 
-## 👤 Profile
+## Hello!
 
 Coffee in hand, I keep warehouse‑scale simulations humming and microservices neatly lined up-and every so often, my commit messages come with just enough friendly guidance to keep both codebases and colleagues smiling.
 
 ---
 
-## 🔧 Core Expertise
+##  Core Expertise
 
 - **DevOps & Infrastructure Automation**  
   Crafting CI/CD pipelines, provisioning cloud resources as code, and keeping deployments predictable.
@@ -27,7 +27,7 @@ Pull requests and issue reports welcome - let’s turn complexity into clarity.
 
 ---
 
-## 📈 Development Metrics
+## Development Metrics
 
   <img src="https://github-readme-stats.vercel.app/api?username=nuar-dev&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Contributions" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuar-dev&layout=compact&theme=tokyonight" alt="Top Languages" />  
@@ -37,7 +37,7 @@ Pull requests and issue reports welcome - let’s turn complexity into clarity.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 🌐 [Website](https://nuar.de)  
 - ✉️ [Email](mailto:nuar@nuar.de)

@@ -1,9 +1,3 @@
-# nuar‑dev
-
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/nuar-dev/nuar-dev/main/assets/chaos_engineer.jpg" alt="Chaos Engineer" width="400" />
-</p>
-
 <p align="center"><em>Modeling complex systems. Optimizing warehouse simulations and developer workflows.</em></p>
 
 > Beyond interface and logic, I architect scalable solutions for real‑world operations.
@@ -52,5 +46,7 @@ Pull requests and issue reports welcome—let’s turn complexity into clarity.
 - ✉️ [Email](mailto:nuar@nuar.de)
 
 ---
-
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/nuar-dev/nuar-dev/main/assets/chaos_engineer.jpg" alt="Chaos Engineer" width="400" />
+</p>
 > “In the face of code, even time bleeds—and that which slumbers in the depths of logic stirs with every commit…”

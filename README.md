@@ -2,8 +2,6 @@
 
 Coffee in hand, I keep warehouse‑scale simulations humming and microservices neatly lined up-and every so often, my commit messages come with just enough friendly guidance to keep both codebases and colleagues smiling.
 
-<p align="center"><em>Modeling complex systems. Optimizing warehouse simulations and developer workflows.</em></p>
-
 > Beyond interface and logic, I architect scalable solutions for real‑world operations.
 
 ---

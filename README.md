@@ -37,3 +37,7 @@ Technical product strategist and full‑stack system architect specializing in w
 
 **Website:** https://nuar.de  
 **Email:** nuar@nuar.de
+
+<p align="center">
+  <img src="./assets/profile.jpg" alt="nuar‑dev portrait" width="150" />
+</p>

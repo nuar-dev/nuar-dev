@@ -46,7 +46,15 @@ Pull requests and issue reports welcome—let’s turn complexity into clarity.
 - ✉️ [Email](mailto:nuar@nuar.de)
 
 ---
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/nuar-dev/nuar-dev/main/assets/chaos_engineer.jpg" alt="Chaos Engineer" width="400" />
-</p>
-> “In the face of code, even time bleeds—and that which slumbers in the depths of logic stirs with every commit…”
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/nuar-dev/nuar-dev/main/assets/chaos_engineer.jpg" alt="Chaos Engineer" width="250" />
+    </td>
+    <td>
+      <blockquote>
+        “In the face of code, even time bleeds—and that which slumbers in the depths of logic stirs with every commit…”
+      </blockquote>
+    </td>
+  </tr>
+</table>

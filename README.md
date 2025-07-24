@@ -48,7 +48,7 @@ Pull requests and issue reports welcome—let’s turn complexity into clarity.
 **Website:** https://nuar.de  
 **Email:** nuar@nuar.de
 
-**In the face of code, even time bleeds—and that which slumbers in the depths of logic stirs with every commit…**
+> In the face of code, even time bleeds—and that which slumbers in the depths of logic stirs with every commit…
 <p align="center">
   <img src="./assets/chaos_engineer.jpg" alt="chaos-engineer" width="500" />
 </p>

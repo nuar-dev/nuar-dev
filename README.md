@@ -1,11 +1,3 @@
-## Introduction
-
-Coffee in hand, I keep warehouse‑scale simulations humming and microservices neatly lined up-and every so often, my commit messages come with just enough friendly guidance to keep both codebases and colleagues smiling.
-
-> Beyond interface and logic, I architect scalable solutions for real‑world operations.
-
----
-
 ##  Core Expertise
 
 - **DevOps & Infrastructure Automation**  

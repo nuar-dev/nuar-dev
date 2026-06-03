@@ -14,10 +14,7 @@ Pull requests and issue reports welcome - let’s turn complexity into clarity.
 ## Development Metrics
 
   <img src="https://github-readme-stats.vercel.app/api?username=nuar-dev&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Contributions" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuar-dev&layout=compact&theme=tokyonight" alt="Top Languages" />  
-
-
-[![WakaTime Summary](https://github-readme-stats.vercel.app/api/wakatime?username=nuar&layout=compact&theme=radical)](https://wakatime.com/@nuar)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuar-dev&layout=compact&theme=tokyonight" alt="Top Languages" /> 
 
 ---
 <table border="0" cellpadding="12" cellspacing="0" align="center">

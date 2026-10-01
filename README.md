@@ -13,8 +13,8 @@ Pull requests and issue reports welcome - let’s turn complexity into clarity.
 
 ## Development Metrics
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nuar-dev&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Contributions" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuar-dev&layout=compact&theme=tokyonight" alt="Top Languages" /> 
+<img src="./profile/stats.svg" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 ---
 <table border="0" cellpadding="12" cellspacing="0" align="center">

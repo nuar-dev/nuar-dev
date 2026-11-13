@@ -1,12 +1,3 @@
-##  Core Expertise
-
-- **DevOps & Infrastructure Automation**  
-- **Full‑Stack Application Development**  
-- **Simulation Engines & Warehouse Modeling**  
-- **Warehouse Optimization**  
-- **Business Process Mapping & Data Modeling**  
-
-
 Pull requests and issue reports welcome - let’s turn complexity into clarity.
 
 ---

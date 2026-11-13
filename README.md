@@ -1,5 +1,3 @@
-Pull requests and issue reports welcome - let’s turn complexity into clarity.
-
 ---
 
 ## Development Metrics
